@@ -2,7 +2,7 @@
 
 FDF
 
-A simple 3D height-map renderer. You can rotate models, color is defined by relative height in the map. More features planned!
+A simple 3D height-map renderer. You can rotate models, color is defined by relative height in the map.
 
 Compiling and running
 Run make. An executable will compile. Currently only tested on MacOS.
